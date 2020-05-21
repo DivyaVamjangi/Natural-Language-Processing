@@ -1,0 +1,1 @@
+This is a Real-Time Analysis one with Trump and Warner Sentimental Analysis,this gives you the better results as the tweets are completely in English.The other one which has become a trending topic in India during this timeline is about YouTuber CarryMinati vs TikToker Amir Siddiqui.As the tweets include both Hindi and English Languages the graph is odd than the normal graph.
